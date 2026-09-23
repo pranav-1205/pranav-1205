@@ -117,7 +117,7 @@ AI-powered disaster response and coordination platform featuring:
 
 **Tech:** React • TypeScript • FastAPI • PostgreSQL • Docker • AI
 
-🔗 [View Project](https://github.com/pranav-1205)
+🔗 [View Project]([https://github.com/pranav-1205](https://github.com/pranav-1205/AIDRAC-Agentic-AI-Disaster-Response-Coordinator.git))
 
 ---
 
@@ -128,7 +128,14 @@ temperature-sensitive medical supplies.
 
 **Tech:** React • Node.js • Express • MySQL • ESP32 • IoT
 
-🔗 [View Project](https://github.com/pranav-1205)
+🔗 [View Project]([https://github.com/TEJASPATIL0710/ColdGuard.git])
+
+### 📝 WeShare - Collaboration-platform
+A real-time collaborative note-taking web application 
+
+**Tech:** Socket.IO • Yjs • Quill.js + y-quill • MongoDB (Mongoose • qrcode.react
+
+🔗 [View Project]([https://github.com/pranav-1205/WeShare---Collaboration-platform.git])
 
 ---
 
